@@ -1,0 +1,64 @@
+.custome_span{
+    height:20px;
+    color:#FF0000 !important
+}
+.bottom_design{
+    padding-left:20px;
+    padding-bottom:20px;
+}
+.reg_position{
+  margin: 0 auto;
+  width: 70%;
+
+    /* margin-left: 200px;
+    padding-right: 380px; */
+}
+.reg_position > div{}
+.inner_textfield{
+    margin-bottom: 20px;
+}
+label{
+  user-select: none;
+}
+
+.error-msg {
+    color: red;
+    border: 1px solid red;
+    padding: 10px;
+    text-align: center;
+  }
+
+  #loader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.7);
+    z-index: 1000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .loading-message {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .loading-message img {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+    animation: spin 2s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }

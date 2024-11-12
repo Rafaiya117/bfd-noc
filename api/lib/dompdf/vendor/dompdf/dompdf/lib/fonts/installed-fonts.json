@@ -1,0 +1,25 @@
+{
+    "roboto": {
+        "normal": "roboto_normal_9fa47a070a8b30b595086d70bb7ac78c"
+    },
+    "varela round": {
+        "normal": "varela_round_normal_c01daf8e1c98886448ab6e36d1586637"
+    },
+    "material icons": {
+        "normal": "material_icons_normal_d4f0c36531731df40973b0163af73ef2"
+    },
+    "fontawesome": {
+        "normal": "fontawesome_normal_a07c54af815ea54af1b5e5aa13cc5f8b"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_be2a5957a95fa1deff021224efdafeb4"
+    },
+    "font awesome 5 pro": {
+        "300": "C:\\xampp\\htdocs\\noc_new\\light\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_pro_300_335232fb79f6abcce19bd9c798383b80",
+        "normal": "C:\\xampp\\htdocs\\noc_new\\light\\dompdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_pro_normal_b4fdff5fbb25d6fee420e8ff523ed330",
+        "900": "font_awesome_5_pro_900_2e06ae4ea0b5fd2d0b9b73c8c3c78346"
+    },
+    "poppins": {
+        "normal": "poppins_normal_442dffd12abdf0df26c14405d3f49bfa"
+    }
+}
